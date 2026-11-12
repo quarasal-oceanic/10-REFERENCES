@@ -125,5 +125,3 @@ Research investigating the structural safety of conical acrylic viewports used i
 **How can reliable, efficient, and scalable structural systems be developed to support long-term human habitation beneath the ocean?**
 
 ---
-
-*Part of the QUARASAL OCEANIC — Open Research References collection.*
